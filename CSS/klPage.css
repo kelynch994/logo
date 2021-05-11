@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Documents */
+
+.navbar-dark {
+    background-color: #c4b2a7 !important;
+}
+
+.content {
+    max-width: 1000px;
+    margin-top: 2em;
+}
+
+.footer{
+	background-color: #c4b2a7 ! important ;
+	height: 60px;
+	color: #fff;
+	text-align: center;
+	font-size: .9rem;
+	padding-top: 20px;
